@@ -2,7 +2,8 @@ package me.seokang.compose.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple200 = Color(0xFFBB86FC)
-val Purple500 = Color(0xFF6200EE)
-val Purple700 = Color(0xFF3700B3)
-val Teal200 = Color(0xFF03DAC5)
+
+val Navy = Color(0xFF3F51AF)
+val Navy05 = Color(0x1A3F51AF)
+val Navy30 = Color(0x4D3F51AF)
+val Orange = Color(0xFFFB7C34)
